@@ -1,0 +1,8 @@
+# error.log
+*.log
+
+/dir/
+
+static/dir
+
+Database.pptx
